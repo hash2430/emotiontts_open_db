@@ -386,7 +386,7 @@
 <TTS_Support@selvas.com>
 
 ## LICENSE
-![Cc-by-nc-nd](480px-Cc-by-nc-nd_icon.png "Cc-by-nc-nd")
+![Cc-by-nc-nd](192px-Cc-by-nc-nd_icon.png "Cc-by-nc-nd")
 
 [신청서]: http://naver.me/GaQSRZdm
 [전체 데이터 신청서]: http://naver.me/GaQSRZdm
