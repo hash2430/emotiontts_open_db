@@ -380,9 +380,9 @@
 
 
 
-## 기타
-	Contact : 서울시 금천구 가산디지털1로 19, 19~20층 (주)셀바스에이아이
-		  <TTS_Support@selvas.com>
+## Contact
+서울시 금천구 가산디지털1로 19, 19~20층 (주)셀바스에이아이
+<TTS_Support@selvas.com>
 		
 [신청서]: http://naver.me/GaQSRZdm
 [전체 데이터 신청서]: http://naver.me/GaQSRZdm
